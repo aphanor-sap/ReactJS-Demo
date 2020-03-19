@@ -1,5 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About this project
+
+This is a simple demo that illustrates a [SAP Customer Data Cloud (Gigya)](https://www.sap.com/uk/products/crm/customer-data-management.html) Integration with React JS.
+
+It includes sample flows for:
+* Login/Registration via Screen-Sets
+* Password reset
+* Social Login with Facebook & Google
+* Update Profile via Screen-Sets
+* Logout
+
+<a name="requirements"></a>
+## Requirements
+
+```
+brew install node
+npm i create-react-app -g
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
